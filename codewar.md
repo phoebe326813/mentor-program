@@ -82,11 +82,11 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 
 ## 兩顆星（需要花點時間思考）
 
-### ❌ Shortest Word
+### ✅ Shortest Word
 題目連結：https://www.codewars.com/kata/shortest-word/javascript  
 題目說明：回傳最短的單字的長度
 
-### ❌ Bit Counting
+### ✅ Bit Counting
 題目連結：https://www.codewars.com/kata/bit-counting/javascript  
 題目說明：計算 bit 的總數
 
