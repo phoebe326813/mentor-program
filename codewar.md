@@ -102,7 +102,7 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 題目連結：https://www.codewars.com/kata/tribonacci-sequence/javascript  
 題目說明：費式數列的進階版
 
-### ❌ A Man and his Umbrellas
+### ✅ A Man and his Umbrellas
 題目連結：https://www.codewars.com/kata/a-man-and-his-umbrellas/javascript  
 題目說明：  
 這題需要花多一點時間去思考。
